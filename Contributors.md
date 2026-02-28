@@ -78,6 +78,8 @@ Helllloo world! From this repo.
 - [larryste-max](https://github.com/larryste-max)<br>
 - [ShubhamK](https://github.com/Shubham91999)
 - [Morpheus](https://github.com/TheGittyPerson) of Ormaphea<br>
+-[lalitha] (https://github.com/lalithapolimera)
+-[srikar polimera] (https://github.com/srikarpolimera)
 -[Athif nular]
 -[wolf-eye](https://github.com/wolf-eye0)
 - [Agshin2004] (https://github.com/Agshin2004)
@@ -138,7 +140,6 @@ Prince-Patel
 -[senath vishwaka]
 -[Hafees Ahamed](https://github.com/dashboard)
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
--[Shreeya Tapaswi](https://github.com/ShreeyaTapaswi)
 -[Samara Gunawardhana]
 -[Imasha Sewmini]
 -[Sithumini Manujitha](https://github.com/Sithumini-17)
@@ -166,6 +167,7 @@ Prince-Patel
 -[Nabeel Sahib](https://github.com/bill10110)
 -[Shyam] (https://github.com/Shyamg3)
 -[Ryan Fernando](https://github.com/RyanJFM)
+-[Rahul Kulasooriya](https://github.com/rahul-kenula)
 -[Guerrero V](https://github.com/guerrevg)
 -[Rodrigo Peñaloza](https://github.com/RodOps87)
 -[soum-i] https://github.com/soum-i
@@ -207,6 +209,7 @@ Prince-Patel
 - [Nur Islam](https://github.com/nurislam243)
 - [Roshan Jha](https://github.com/rosh-py)
 - [Ryan Fernando](https://github.com/RyanJFM)
+- [Rahul Kulasooriya](https://github.com/rahul-kenula)
 - [Pantkartik](https://github.com/Pantkartik)
 - [Geofou](https://github.com/geofou)
 - [Daniru Dinsara](https://github.com/DaniruDC)
@@ -228,6 +231,7 @@ Prince-Patel
 - [Ankit Raj](https://github.com/ankitrajrules)  
 - [Jaideep Kalagara](https://github.com/jaideep-kalagara)
 - [Dinithi Gunathilake](https://github.com/Dinithi-Gunathilake)
+- [Dinith Kariyawasam](https://github.com/dinithrk)
 - [Musses Gebremariam](https://github.com/MosesSG)
 - [Greevan Hari] (https://github.com/GreevanHari)
 - [Enuri Wickramasinghe] (https://github.com/enurisw)
@@ -324,8 +328,6 @@ mmmeeeemee
 - ([Anuda Upek](https://github.com/SAAnudaUpek))
 - [priyanshubarai] (https://github.com/priyanshubarai)
 - [orphicdusk] (https://github.com/orphicdusk)
-[srikar polimera] (https://https://github.com/Srikarpolimera)
-[lalitha] (https://https://github.com/Srikarpolimera)
 [Milan Choudhary] (https://github.com/Milan-Choudhary)
 [Nikhilendar Sai](https://github.com/bunnytns6-cpu)
 [Nikhitha Talari](https://github.com/Nikhitha-spec)
@@ -451,6 +453,7 @@ mmmeeeemee
 - [S Hajare](https://github.com/swapnil-s-h)
 - [SL](https://github.com/Sloeffler123)
 - -[MBOGO KATEGILE ZABRON](https://github.com/SHEVISANTOS)
+- [DilekaSadaruwan](https://github.com/DilekaSadaruwan)
 -[Sandeep](https://github.com/sandeepchakka-2007)
 -[Valdes](https://github.com/ValdesFeudjio)
 - [IRONMAN DEV](https://github.com/IROTECHLAB/)
@@ -583,6 +586,7 @@ mmmeeeemee
 - [Asad Munir](https://github.com/AsadUllah428)
 - Pranav Ghorpade (https://github.com/ghorpadeire)
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
+-[DilekaSadaruwan](https://github.com/DilekaSadaruwan)
 - inlitx
 - Lynn
 - Gabriel
@@ -2417,7 +2421,7 @@ guru
 - [DarkWizard](https://github.com/DarkWizard5513)
 -[Devendra Solanki](https://github.com/DevendraSolanki1508)
 - [Fedor Kupryakov](https://github.com/divohub)
--[Aamir]
+- [Aamir](https://github.com/AamirMNAamir)
 - [Fawaz Bello](https://github.com/Phawazz)
 - [wkr99](https://github.com/wkr99)
 - [konstantinMS](https://github.com/KonstantinMS)
@@ -2687,7 +2691,7 @@ contribution by arshi
 -[Hasala-Kavinda](https://github.com/Hasala-Kavinda)
 - [Vansh Jaggi](https://github.com/VanshJ2902)
 -[cristians-12](https://github.com/cristians-12)
--[Subhr](https://github.com/Itssubhraneelbruv)
+-[Subhraneel](https://github.com/Itssubhraneelbruv)
 -[Dineth] (https://github.com/DinethAdikari)
 - [Tushar](https://github.com/TUSHAR1904-cmd)
 - [qusiee](https://github.com/qusaieh
@@ -2740,8 +2744,9 @@ contribution by arshi
 -[Jagdish](https://github.com/Jagdishuikey)|DYPCOE Pune
 -[Sathurjika](https://github.com/Sathurjika16)
 -[Abdullah](https://github.com/Bodeayman)
+-[Khushhal Singh](https://github.com/Meatix)
+-[Nadeen Deminda](https://github.com/Nad33n)
 -[WeerasingheAsani](https://github.com/WeerasingheAsani)
-[Nadeen Deminda](https://github.com/Nad33n)
 -[WellageDS](https://github.com/Dellywell)
 - [Yuneth Hansira](https://github.com/yuneth-hansira)
 -[Umanda](https://github.com/Umanda402)
